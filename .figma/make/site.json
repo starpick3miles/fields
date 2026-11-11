@@ -1,0 +1,10 @@
+{
+  "description": "Visualize a classroom as a 3D model with a 4×3 grid of student desks and chairs, helping educators plan seating and room layouts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
